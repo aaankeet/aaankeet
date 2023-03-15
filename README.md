@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Ankit 👦<br><br>I'm a Smart Contract Developer, I have good knowledge of Blockchain and Cryptography<br>I have completed Some Bootcamps and Built Many Projects around Web3<br>Using many Tools, Framework & Libraries such as Hardhat, Ethers.js, Web3.js, React.js, GraphQl,<br>Axios, Next.js.<br><br>Currently, I am trying to learn new things everyday to further increase my skills and <br>Knowledge.<br>   
+<br>Hi, I'm Ankit 👦<br><br>I'm a Smart Contract Developer, I have good knowledge of Blockchain.<br>I have completed Some Bootcamps and Built Many Projects around Web3<br>Using many Tools, Framework & Libraries such as Hardhat, Ethers.js, Web3.js, React.js, GraphQl,<br>Axios, Next.js.<br><br>Currently, I am trying to learn new things everyday to further increase my skills and <br>Knowledge.<br>   
 
 
 ## 🌐 Socials:
