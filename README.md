@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>Hi, I'm Ankit 👦<br><br>I'm a Smart Contract Developer, I have good knowledge of Blockchain.<br>I have completed Some Bootcamps and Built Many Projects around Web3<br>Using many Tools, Framework & Libraries such as Hardhat, Ethers.js, Web3.js, React.js, GraphQl,<br>Axios, Next.js.<br><br>Currently, I am trying to learn new things everyday to further increase my skills and <br>Knowledge.<br>   
+<br>Hi, I'm Ankit 👦<br><br>I am a Junior Smart Contract Developer with a passion for blockchain technology and cryptography. I have a deep understanding of how blockchain works and how it can be used to build innovative decentralized applications.
+
+Over the past few years, I have honed my skills in various aspects of blockchain development, including smart contract development, front-end web development, and decentralized application (dApp) development. My proficiency in languages such as Solidity, JavaScript, and React has helped me build numerous projects that leverage the power of Web3 technologies.
+
+As a blockchain enthusiast, I am familiar with various blockchain networks, tools, and frameworks. I have worked extensively with Hardhat, Foundry, IPFS, Ethers.js, and Axios, among other technologies. I am always eager to learn new things and stay up-to-date with the latest advancements in the blockchain industry.
 
 
 ## 🌐 Socials:
