@@ -6,8 +6,8 @@ Over the past few years, I have honed my skills in various aspects of blockchain
 As a blockchain enthusiast, I am familiar with various blockchain networks, tools, and frameworks. I have worked extensively with Hardhat, Foundry, IPFS, Ethers.js, and Axios, among other technologies. I am always eager to learn new things and stay up-to-date with the latest advancements in the blockchain industry.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thatboyankit/) 
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thatboyankit/)  -->
 
 # 💻 Languages, Tools and Frameworks:
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=flat&logo=ethereum&logoColor=#3C3C3D) ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Hardhat](https://img.shields.io/badge/Hardhat-%23363636?style=flat&logo=hardhat&logoColor=white) 
