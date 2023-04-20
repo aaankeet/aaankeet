@@ -15,7 +15,7 @@ As a blockchain enthusiast, I am familiar with various blockchain networks, tool
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=#375BD2) ![Next JS](https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB.svg?style=flat&logo=ipfs&logoColor=white)
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=thatboyankit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=thatboyankit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaankeet&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatboyankit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ---
