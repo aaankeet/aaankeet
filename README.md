@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Ankit 👦<br><br>I am a Junior Smart Contract Developer with a passion for blockchain technology and cryptography. I have a deep understanding of how blockchain works and how it can be used to build innovative decentralized applications.
+<br>Hi, I'm Ankit 👦<br><br> Smart Contract Developer with a passion for blockchain technology and cryptography. I have a deep understanding of how blockchain works and how it can be used to build innovative decentralized applications.
 
 Over the past few years, I have honed my skills in various aspects of blockchain development, including smart contract development, front-end web development, and decentralized application (dApp) development. My proficiency in languages such as Solidity, JavaScript, and React has helped me build numerous projects that leverage the power of Web3 technologies.
 
